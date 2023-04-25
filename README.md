@@ -12,9 +12,10 @@ High specificity and diversity are key features of adaptive immunity and are cri
 1) an increasing number of patients with heterozygous loss-of-function *Traf3* mutations
 2) preliminary work indicating B cells TRAF3 levels may decline with age
 The goal of this project is to reproduce Figure 2 which shows that following IL-6 stimulation of B-*Traf3* heterozygous primary mouse cells, there is enhanced early STAT3 phosphorylation compared to wildtype mice (Figure 2).
-![Figure 1. IL-6R signaling pathway.](IL6R_signalpath.png)
 
-![Figure 2. Wildtype, *Traf3* heterozygous, and *Traf3* homozygous primary mouse cells stimulated with IL-6 for given time, then blotted for pSTAT3, STAT3, and actin. * p<0.05, ** p<0.1, and * * * p< 0.001 between WT and KO. X p<0.05 between WT and het.](referencefig.png)
+![Figure 1. IL-6R signaling pathway.](reference_figure/IL6R_signalpath.png)
+
+![Figure 2. Wildtype, *Traf3* heterozygous, and *Traf3* homozygous primary mouse cells stimulated with IL-6 for given time, then blotted for pSTAT3, STAT3, and actin. * p<0.05, ** p<0.1, and * * * p< 0.001 between WT and KO. X p<0.05 between WT and het.](reference_figure/referencefig.png)
 
 **Materials and Methods**
 Western blotting was used to determine the differences in the amount of protein produced by WT, hets, and KO. 
@@ -41,4 +42,4 @@ according to time point and colored according to genotype (Figure 3).
 
 ![Figure 3. Preliminary results of a graph made using R. Wildtype, *Traf3* heterozygous, and *Traf3* 
 homozygous female primary mouse B cells stimulated with IL-6 for 0, 15, 30, or 60 minutes, then blotted for 
-pSTAT3Y705 and total STAT3](Rplot.png)
+pSTAT3Y705 and total STAT3](output/Rplot.png)
