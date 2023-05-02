@@ -1,12 +1,16 @@
 Emma Treco
+
 Final Report
+
 He
+
 01 May 2023
 
 # **Impact of Traf3 Copy Number on IL-6 Signaling**
 
 
-## Reference figure and data obtained by: Treco, E; Hornick, E; Bishop, G. 
+## Reference figure and data obtained by:
+Treco, E; Hornick, E; Bishop, G. 
 The Bishop Lab. 2022-23
 
 
@@ -59,19 +63,37 @@ repository under the script directory.
 
 ## **Results and Discussion**
 
+The results show that there is a significant difference in STAT3 
+phosphorylation in female WT and KO mice at the 15 and 30 minute time 
+point. At these time points there is also a statistically significant 
+difference in STAT3 phosphorylation in female WT and Het mice.
 
+In contrast, in male mice, there is only a difference between WT and KO 
+males at the 30 and 60 minute time points. At no time are the WT and Het 
+significantly different. 
 
 ![Wildtype (WT, blue), *Traf3* deficient (Het, pink), and *Traf3* knockout (KO, green) female primary mouse B cells stimulated with IL-6 
 for 0, 15, 30, or 60 minutes, then blotted for pSTAT3Y705 and total STAT3. A single asterik indicates a significance of p<0.05, 
 and a double asterik indicates a significance of p<0.01. The color of the asterik corresponds to each phenotype compared to the wildtype, for example 
 the green asterik indicates significant difference between WT and KO, and 
 the pink asterik indicates significant difference between WT and 
-Het.](/space/entreco/My_Project/output/Female_percentpSTAT3overtime.png)
-![Data for 
-males.](/space/entreco/My_Project/output/Male_percentpSTAT3overtime.png)
+Het.](/space/entreco/My_Project/output/Female_percentpSTAT3overtime.png)(/space/entreco/My_Project/output/Male_percentpSTAT3overtime.png)
+
+These figures are slightly different from the reference figure. Notably, 
+the significance at the time point is different. This different can be 
+attributed to the fact that the reference figure displayed pooled data 
+from male and female mice, whereas the figures in this report were divided 
+by sex. 
 
 ## **Conclusion**
 
+Consistent with previous findings from the Bishop Lab, B cells from 
+B-Traf3 knockout mice have significantly enhanced STAT3 activation 
+compared to B-TRAF3 wildtype mice. This is true in both male and 
+female mice. In addition to this, female B-Traf3 heterozygous mice have 
+statistically enhanced early STAT3 phosphorylation compared to female 
+B-Traf3 wildtyp mice. This enhanced early phosphorylation is not seen in 
+the male B-Traf3 heterozygous mice. 
 
 ## **Reflection**
 
