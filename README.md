@@ -22,18 +22,18 @@ Note that figure 2 is the data of both sexes pooled whereas the figures
 produced in this paper are divided by sex. 
 
 ![IL-6R signaling pathway showing interaction between IL-6, TRAF3, and 
-STAT3.](/Users/emmatreco/Documents/biol-4386-course-project-emma-treco/background_figures/IL6R_signaling_pathway.png)
+STAT3.](/space/entreco/My_Project/ref_background_figures/IL6R_signaling_pathway.png)
 
 ![Wildtype, *Traf3* heterozygous, and *Traf3* homozygous primary 
 mouse cells stimulated with IL-6 for given time, then blotted for pSTAT3, 
 STAT3, and actin. * p<0.05, ** p<0.1, and * * * p< 0.001 between WT and 
 KO. X p<0.05 between WT and 
-het.](/Users/emmatreco/Documents/biol-4386-course-project-emma-treco/background_figures/reference_figure.png)
+het.](/space/entreco/My_Project/ref_background_figures/reference_figure.png)
 
-![WT, B-Traf3 Het, and B-Traf3 KO primary moous cells were sitmulateed 
+![WT, B-Traf3 Het, and B-Traf3 KO primary mouse cells were sitmulateed 
 with IL-6 for the given amount of time, then pSTAT3Y705 (top), STAT3 
-(middle), and actin (bottom) proteins were detecteed via western 
-blotting.](/Users/emmatreco/Documents/biol-4386-course-project-emma-treco/background_figures/Representative_western_pSTAT3.png)
+(middle), and actin (bottom) proteins were detected via western 
+blotting.](/space/entreco/My_Project/ref_background_figures/Representative_western_pSTAT3.png)
 
 ## **Materials and Methods**
 
@@ -66,9 +66,9 @@ for 0, 15, 30, or 60 minutes, then blotted for pSTAT3Y705 and total STAT3. A sin
 and a double asterik indicates a significance of p<0.01. The color of the asterik corresponds to each phenotype compared to the wildtype, for example 
 the green asterik indicates significant difference between WT and KO, and 
 the pink asterik indicates significant difference between WT and 
-Het.](/Users/emmatreco/Documents/biol-4386-course-project-emma-treco/output/Female_percentpSTAT3overtime.png)
+Het.](/space/entreco/My_Project/output/Female_percentpSTAT3overtime.png)
 ![Data for 
-males.](/Users/emmatreco/Documents/biol-4386-course-project-emma-treco/output/Male_percentpSTAT3overtime.png)
+males.](/space/entreco/My_Project/output/Male_percentpSTAT3overtime.png)
 
 ## **Conclusion**
 
